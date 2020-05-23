@@ -1,0 +1,22 @@
+{
+    "version": "1.2",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/zladovan/gorched/releases/download/v1.2/gorched_1.2_Windows_i386.zip",
+            "bin": [
+                "gorched.exe"
+            ],
+            "hash": "21aa2043d1f4a3848b05ff678044cba98f327f42531dd8331741e9d0fefc2153"
+        },
+        "64bit": {
+            "url": "https://github.com/zladovan/gorched/releases/download/v1.2/gorched_1.2_Windows_x86_64.zip",
+            "bin": [
+                "gorched.exe"
+            ],
+            "hash": "68a779e4b920f4f2f9d5f0597605f1167efecf7a369d80aecda2e42b452a7042"
+        }
+    },
+    "homepage": "https://github.com/zladovan/gorched",
+    "license": "MIT",
+    "description": "Terminal based game inspired by \"The Mother of all games\" Scorched Earth"
+}
