@@ -1,19 +1,19 @@
 {
-    "version": "1.5",
+    "version": "1.6",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/zladovan/gorched/releases/download/v1.5/gorched_1.5_Windows_i386.zip",
+            "url": "https://github.com/zladovan/gorched/releases/download/v1.6/gorched_1.6_Windows_i386.zip",
             "bin": [
                 "gorched.exe"
             ],
-            "hash": "6bfdf2fdb6382beef352d67e18b30aef6b86cddf3a1b81d31cc9c0be74ce28d7"
+            "hash": "4bf3dc51c947e61b331b4af01765551e9bff7947e8e936b902a0d9f7af5b9c3f"
         },
         "64bit": {
-            "url": "https://github.com/zladovan/gorched/releases/download/v1.5/gorched_1.5_Windows_x86_64.zip",
+            "url": "https://github.com/zladovan/gorched/releases/download/v1.6/gorched_1.6_Windows_x86_64.zip",
             "bin": [
                 "gorched.exe"
             ],
-            "hash": "9af68ba95ed0bcc25ff6bb4639dbe342782f5fb2f4a1e8c5bd72cc398e564916"
+            "hash": "f4e74b0ae7116399c38158936f953458c892ed9ed3e3739b2012159a651d1947"
         }
     },
     "homepage": "https://github.com/zladovan/gorched",
